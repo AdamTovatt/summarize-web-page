@@ -1,9 +1,9 @@
-### Summarize web pages
+### What is this?
 This is an application written as an example of how web pages can easily be summarized using C# and the OpenAI api.
 
 The application is a simple console application. It takes a url and OpenAI api key as input and outputs a summary of the page.
 
-#### How to use
+#### How do I use this?
 1. Get an OpenAI api key from https://platform.openai.com/account/api-keys
 or google on how to get one if that link doesn't work.
 
